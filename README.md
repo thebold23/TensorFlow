@@ -1,6 +1,6 @@
 # What's new in TensorFlow 2.x
 
-
+Hello everyone!
 * Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
